@@ -1,2 +1,2 @@
 "Hello, Software Maintenance!" 
-"Welcome to CSC 4631." 
+"Welcome to Software Testing and Maintenance CSC 4631." 
